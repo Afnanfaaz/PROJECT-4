@@ -7,6 +7,6 @@ setup(
     description="A Python package for analyzing Air Traffic Passenger Statistics",
     author="Afnan",
     author_email="amohamm7@mail.yu.edu",
-    url="https://github.com/Afnanfaaz/PROJECT-4.git",
+    url="https://github.com/Afnanfaaz/PROJECT-4",
     install_requires=["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"],
 )
