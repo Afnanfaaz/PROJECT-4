@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     description="A Python package for analyzing Air Traffic Passenger Statistics",
     author="Afnan",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/your_package_repo",
+    author_email="amohamm7@mail.yu.edu",
+    url="https://github.com/Afnanfaaz/PROJECT-4.git",
     install_requires=["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn"],
 )
