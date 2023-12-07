@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: src.my-package
+Version: 0.1
+Summary: A Python package for analyzing Air Traffic Passenger Statistics
+Home-page: https://github.com/yourusername/your_package_repo
+Author: Afnan
+Author-email: your.email@example.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
